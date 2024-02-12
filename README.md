@@ -1,1 +1,1 @@
-# This repository was created to test and perform labs fromo free code camp
+# This repository was created to test and perform labs from free code camp
